@@ -18,7 +18,7 @@ cred = credentials.Certificate("inbound-footing-461802-k8-f1b68e515a01.json")
 app = firebase_admin.initialize_app(cred)
 db = firestore.client()
 
-# SQL Connection Info
+# SQL Connection Infoh
 db_user = 'db_user1'
 db_pass = 'root'
 db_name = 'media_table'

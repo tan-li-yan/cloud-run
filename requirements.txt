@@ -1,0 +1,9 @@
+flask
+firebase-admin
+cloud-sql-python-connector[pymysql]
+sqlalchemy
+pandas
+google-generativeai
+scikit-learn
+numpy==1.23.5
+google-cloud-aiplatform
